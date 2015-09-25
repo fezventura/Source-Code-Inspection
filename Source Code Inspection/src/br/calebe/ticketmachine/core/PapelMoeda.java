@@ -6,7 +6,7 @@ package br.calebe.ticketmachine.core;
  */
 public class PapelMoeda {
 
-    protected int valor;
+    public int valor;
 
     /**
      *
